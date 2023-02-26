@@ -5,6 +5,7 @@ A Linux distribution based on Debian 11 with a suitable kernel for developers
 - Shayan Gosi 
 - Sohrab Behdani
 - Amir Hossein Rafiee 
+- Hossein Pira for software development
 - and other friends...
 
 ### What is the core of this distribution?
